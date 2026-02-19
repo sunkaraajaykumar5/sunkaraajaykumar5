@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay Kumar
 </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&color=0E75B6&center=true&vCenter=true&width=600&duration=2200&lines=B.Tech+CSE+Student;Aspiring+Data+Engineer;ETL+Pipelines+%7C+Azure+%7C+Python+%7C+SQL" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **B.Tech CSE** student with specialization in **Data Engineering, ETL Pipelines, and Analytics**  
+- 🎓 **B.Tech CSE student specializing in Cyber Security**  
 - 🐍 Strong foundation in **Python, SQL, C, and C++** for scalable data processing  
 - ☁️ Hands-on experience with **Microsoft Azure, Azure Data Factory, and Microsoft Fabric**  
 - 🔄 Skilled in **data ingestion, transformation, validation, and analytics-ready dataset creation**  
